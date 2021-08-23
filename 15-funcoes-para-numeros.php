@@ -20,5 +20,6 @@ echo "<br>";
 echo floor(4.999999999999);
 echo "<br>";
 
+// Gera um número aleatorio
 echo rand(1,10);
 ?>
